@@ -1,6 +1,6 @@
 /* eslint-disable import/no-unresolved, import/extensions */
 import React, {PureComponent} from 'react';
-import {Animated, Easing, PanResponder, StyleSheet, View, ViewPropTypes} from 'react-native';
+import {Animated, Easing, PanResponder, StyleSheet, View, ViewPropTypes} from 'react-native-web';
 import {PropTypes} from 'prop-types';
 /* eslint-enable import/no-unresolved, import/extensions */
 
